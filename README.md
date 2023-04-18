@@ -1,4 +1,4 @@
-# Nodejs FES Template
+# Exercise 1 to 1
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 16.14.2
@@ -18,19 +18,6 @@ npm install
 - Build and run the project
 ```
 npm run start
-```
-
-
-# TypeScript + Node 
-The main purpose of this repository is to show a project setup and workflow for writing microservice. The Rest APIs will be using the Swagger (OpenAPI) Specification.
-
-
-
-
-## Getting TypeScript
-Add Typescript to project `npm`.
-```
-npm install -D typescript
 ```
 
 ## Project Structure
